@@ -1,0 +1,8 @@
+{
+  "name": "NomesBrasileiros",
+  "author": "Agriche",
+  "version": "0.0.3",
+  "description": "Este mod adiciona nomes brasileiros!",
+  "iconPath": "icon.png",
+  "targetGameBuild": 558
+}
