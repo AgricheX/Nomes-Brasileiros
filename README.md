@@ -4,7 +4,7 @@
 
 > Brazilian names for WorldBox: people, cities, kingdoms, clans, cultures, alliances and items.
 
-**[Download Nomes Brasileiros 0.0.3](https://github.com/AgricheX/nomes-brasileiros/releases/latest/download/NomesBrasileiros.zip)**
+**[Download Nomes Brasileiros 0.0.3](https://github.com/AgricheX/Nomes-Brasileiros/releases/latest/download/NomesBrasileiros.zip)**
 
 | | |
 | --- | --- |
